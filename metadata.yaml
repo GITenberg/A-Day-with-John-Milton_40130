@@ -1,0 +1,45 @@
+_repo: A-Day-with-John-Milton_40130
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+  illustrator:
+    agent_name: Meteyard, Sidney
+    alias: Meteyard, S.
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '43307'
+    url: http://www.gutenberg.org/2009/agents/43307
+    wikipedia: http://en.wikipedia.org/wiki/Sidney_Meteyard
+covers:
+- cover_type: archival
+  image_path: 40130-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Byron, May Clarissa Gillington
+    aliases:
+    - Gillington, M. C. (May Clarissa)
+    - Clare, Maurice
+    - Gillington, May Clarissa
+    deathdate: 1936
+    gutenberg_agent_id: '34616'
+    url: http://www.gutenberg.org/2009/agents/34616
+description: ''
+gutenberg_issued: '2012-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milton, John, 1608-1674'
+- !lcc 'PR'
+title: A Day with John Milton
+url: http://www.gutenberg.org/ebooks/40130
